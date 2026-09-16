@@ -1,0 +1,22 @@
+.formulario {
+  width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.formulario h1 {
+  text-align: center;
+}
+
+.formulario button {
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.formulario h2 {
+  margin-top: 30px;
+}
+
