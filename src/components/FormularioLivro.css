@@ -1,22 +1,28 @@
 .formulario {
-  width: 500px;
+  width: 540px;
   margin: 40px auto;
   padding: 20px;
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   border-radius: 10px;
 }
 
 .formulario h1 {
+  font-family: monospace;
   text-align: center;
+  color: white;
 }
 
 .formulario button {
   width: 100%;
   padding: 10px;
   cursor: pointer;
+  background-color: rgb(77, 29, 29);
+  color: white;
+  border: none;
 }
 
 .formulario h2 {
   margin-top: 30px;
+  color: white;
 }
 
