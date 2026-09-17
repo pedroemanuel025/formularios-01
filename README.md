@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # React + Vite
 
 ![Imagen1](./src/img/Captura%20de%20tela%202026-09-17%20151639.png)
 ![Imagen2](./src/img/Captura%20de%20tela%202026-09-17%20151639.png)
+=======
+# Imagens [Atividade] Criação de Formulário
+>>>>>>> 5976c19238c3bb1afe476a691202fe2374e033cf
